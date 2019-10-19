@@ -3,7 +3,7 @@
 name: Chris Yeomans
 
 # Username (this should match the folder name)
-authors:
+authors: 
 - admin
 
 # Is this the primary user of the site?
@@ -15,7 +15,7 @@ role: Research Fellow
 # Organizations/Affiliations
 organizations:
 - name: Camborne School of Mines, University of Exeter
-  url: ""
+  url: "http://emps.exeter.ac.uk/csm/staff/cmy203"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research is currently focused on deep geothermal energy exploration in the UK with a focus on SW England regional geology and tectonics.
@@ -23,7 +23,6 @@ bio: My research is currently focused on deep geothermal energy exploration in t
 interests:
 - Machine learning in geoscience
 - Deep geothermal energy
-- Structural geology
 - Mineral exploration
 - SW England geology
 
@@ -46,12 +45,12 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:c.m.yeomans@exeter.ac.uk".
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/SWgeoscience
 - icon: linkedin
-  icon_pack: fab
+  icon_pack: 
   link: https://www.linkedin.com/in/chris-yeomans-33a23498/
 - icon: github
   icon_pack: fab
@@ -72,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Chris Yeomans is a geoscientist researching deep geothermal energy targets. His work is focused on granite targets and a key area of interest includes the Cornubian Batholith (SW England) where the geology is most favourable. Other targets include the Weardale Granite (Newcastle area) and granites in Scotland, Northern Ireland and Ireland.
-
-Chris also has other interests including machine learning in geoscience, mineral exploration and spatial statistics. He has worked with a range of companies in SW England and developed new resources including regional lineament datasets. These data are valuable for understanding the strucutral geology of the region which can be important for geothermal, mining and geotechnical applications.
+Add this later
