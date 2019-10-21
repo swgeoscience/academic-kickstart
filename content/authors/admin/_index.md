@@ -55,7 +55,7 @@ social:
   link: https://www.linkedin.com/in/chris-yeomans-33a23498/
 - icon: github
   icon_pack: fab
-  link: https://github.com/yeomo
+  link: https://github.com/swgeoscience
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Chris Yeomans is a geoscientist researching deep geothermal energy targets. His work is focused on granite targets and a key area of interest includes the Cornubian Batholith (SW England) where the geology is most favourable. Other targets include the Weardale Granite (Newcastle area) and granites in Scotland, Northern Ireland and Ireland.
+Chris Yeomans is a geoscientist researching deep geothermal energy targets. His work is focused on granite targets and a key area of interest includes the Cornubian Batholith (SW England) where the geology is most favourable. Other potential geothermal targets in the UK include the Weardale Granite (Newcastle area) and granites in Scotland, Northern Ireland and Ireland.
 
 Chris also has other interests including machine learning in geoscience, mineral exploration and spatial statistics. He has worked with a range of companies in SW England and developed new resources including regional lineament datasets. These data are valuable for understanding the strucutral geology of the region which can be important for geothermal, mining and geotechnical applications.
