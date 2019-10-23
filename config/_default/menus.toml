@@ -13,6 +13,11 @@
   url = "/research"
   weight = 20
 
+[[main]]
+  name = "SW England Geology"
+  url = "/swegeology"
+  weight = 30
+
 #[[main]]
 #  name = "Publications"
 #  url = "#featured"
