@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is currently focused on deep geothermal energy exploration in the UK with a focus on SW England regional geology and tectonics.
+bio: Research Fellow in deep geothermal energy exploration with interests in machine learning, mineral exploration and SW England geology.
 
 interests:
 - Machine learning in geoscience

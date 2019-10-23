@@ -10,10 +10,16 @@ view: 3
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "Banded granite aplite-pegmatite block &copy; Chris Yeomans (2019)"
-  image: "megiliggar.jpg"
+  caption:
+  image:
 
 summary: The construction of the Cornubian Batholith
 weight: 40
 ---
 This page is under construction
+<figure>
+ <img src="/img/megiliggar.jpg" alt="Granitic aplie-pegmatite boulder at Megiliggar Rocks">
+ <figcaption>
+ Granitic aplie-pegmatite boulder at Megiliggar Rocks &copy; Chris Yeomans (2019)
+ </figcaption>
+</figure>

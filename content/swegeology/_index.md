@@ -10,10 +10,8 @@ view: 3
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "Porthcurno towards Logan Rock &copy; Chris Yeomans (2019)"
-  image: "porthcurno.jpg"{height=50%}
-
-.article-banner { width: 50%; height: 50%; }
+  caption: Porthcurno towards Logan Rock &copy; Chris Yeomans (2019)
+  image: porthcurnoheader.jpg
 ---
 
-This page is under construction
+I have included some pages below about the geology of SW England and its mineraliation. These pages represent the literature review I compiled during my PhD studies.
