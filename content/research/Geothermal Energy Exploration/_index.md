@@ -1,5 +1,5 @@
 ---
-title: Geothermal
+title: Geothermal Energy Exploration
 
 # View.
 #   1 = List
@@ -13,7 +13,7 @@ header:
   caption: ""
   image: ""
 
-summary: Deep geothermal energy research
+summary: Deep geothermal energy research in SW England
 ---
 ## The SW England Deep Geothermal Field
 Deep geothermal resources are a renewable energy source that is likely to become key to driving baseload electricity generation in a low-carbon future.

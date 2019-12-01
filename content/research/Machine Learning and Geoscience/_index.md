@@ -1,5 +1,5 @@
 ---
-title: Mineral Prospectivity Modelling
+title: Machine Learning and Geoscience
 
 # View.
 #   1 = List
@@ -13,6 +13,6 @@ header:
   caption: ""
   image: ""
 
-summary: Mineral exploration research
+summary: The application of machine learning to geoscience problems
 ---
 This page is under construction

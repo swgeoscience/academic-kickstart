@@ -14,4 +14,4 @@ header:
   image: porthcurnoheader.jpg
 ---
 
-I have included some pages below about the geology of SW England and its mineraliation. These pages represent the literature review I compiled during my PhD studies.
+I have included some pages below about the geology of SW England and its mineraliation. These pages represent the literature review I compiled during my PhD studies. My full thesis can be downloaded from the University of Exeter's online repository [Open Research Exeter](https://ore.exeter.ac.uk/repository/handle/10871/37504).
